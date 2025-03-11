@@ -11,3 +11,11 @@ public class Main {
         System.out.println(a/c);
     }
 }
+
+/*
+What-to-do
+        1 . Create two variables, add them together, and display the result : like 1 +1 = 2
+        2: Create two variables, multiply them, and display the result
+Create two double variables with numerical values, multiply them together, and print the result.
+Create two variables: one as an int and the other as a double. Divide the first by the second and print the result.
+ */
