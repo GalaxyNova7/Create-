@@ -1,0 +1,19 @@
+What-to-do
+1 . Create two variables, add them together, and display the result : like 1 +1 = 2
+2: Create two variables, multiply them, and display the result
+Create two double variables with numerical values, multiply them together, and print the result.
+Create two variables: one as an int and the other as a double. Divide the first by the second and print the result.
+
+1- What is the difference between int and double in Java?
+Integers are whole numbers while decimals have decimal points.
+2-What is the difference between char and String?
+Use char when you need to work with individual characters, such as processing letters, digits.
+Use String when you need to work with sequences of characters, such as sentences, words.
+3-How do you declare a boolean variable? Give an example.
+System.out.println(2 > 1); // returns true, because 2 is higher than 1
+4-What happens if you try to store a decimal number in an int variable?
+The program will alert you that there is an error in the integers because they do not take decimal numbers.
+5-What is the difference between float and double in Java?
+difference between a float and double in Java is that a double can represent much larger numbers than a float.
+Both data types represent numbers with decimals, but a float is 32 bits in size while a double is 64 bits.
+gi
