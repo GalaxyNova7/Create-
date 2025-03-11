@@ -16,4 +16,3 @@ The program will alert you that there is an error in the integers because they d
 5-What is the difference between float and double in Java?
 difference between a float and double in Java is that a double can represent much larger numbers than a float.
 Both data types represent numbers with decimals, but a float is 32 bits in size while a double is 64 bits.
-gi
