@@ -4,10 +4,13 @@ public class Main {
     public static void main(String[] args) {
         int a = 50 , b = 40;
         double c = 15.5 , d = 25.5;
-
-        System.out.println(a+b);
-        System.out.println(a*b);
-        System.out.println(c*d);
-        System.out.println(a/c);
+        int y=a+b;
+        int t=a*b;
+        double r=c*d;
+        double e=a/c;
+        System.out.println(y);
+        System.out.println(t);
+        System.out.println(r);
+        System.out.println(e);
     }
 }
